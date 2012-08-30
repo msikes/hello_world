@@ -1,6 +1,7 @@
 void setup(){
   background(0);
   //Cooool
+  //Another comment
 }
 
 void draw(){
